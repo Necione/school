@@ -46,6 +46,8 @@ Curley’s Wife
 ## The Girl that Lennie Touched in Weed
 
 * Very scared of Lennie (accused him of raping her).
-Crooks
+
+## Crooks
+
 * Proud, bitter, and lonely stable hand with a crooked back.
 > “Crooks, the negro stable hand, had his bunk in the harness room; a little shed that leaned off the wall of the barn.”
