@@ -1,3 +1,8 @@
+<p align="center">
+    <b>Language & Literature 10-1 Dr. Reinink</b> | 2/13/2023
+</p>
+<hr>
+
 ## Lenny
 
 * Huge man with shapeless face and sloping shoulders, possessing immense physical strength but limited mental capacity.
