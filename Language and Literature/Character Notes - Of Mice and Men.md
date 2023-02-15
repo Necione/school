@@ -1,6 +1,6 @@
-<p align="center">
-    <b>Language & Literature 10-1 Dr. Reinink</b> | 2/13/2023
-</p>
+<h2 align="center">
+   <b>Language & Literature 10-1 Dr. Reinink</b> | 2/13/2023
+</h2>
 <hr>
 
 ## Lenny
